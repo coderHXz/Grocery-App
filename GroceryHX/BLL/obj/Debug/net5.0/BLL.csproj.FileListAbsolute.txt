@@ -1,0 +1,5 @@
+C:\Users\harshvardhanyadav\Downloads\GroceryHX\GroceryHX\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+C:\Users\harshvardhanyadav\Downloads\GroceryHX\GroceryHX\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshvardhanyadav\Downloads\GroceryHX\GroceryHX\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+C:\Users\harshvardhanyadav\Downloads\GroceryHX\GroceryHX\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+C:\Users\harshvardhanyadav\Downloads\GroceryHX\GroceryHX\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache

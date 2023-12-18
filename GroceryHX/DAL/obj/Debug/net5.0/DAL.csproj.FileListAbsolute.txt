@@ -1,0 +1,5 @@
+C:\Users\harshvardhanyadav\Downloads\GroceryHX\GroceryHX\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\harshvardhanyadav\Downloads\GroceryHX\GroceryHX\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshvardhanyadav\Downloads\GroceryHX\GroceryHX\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\harshvardhanyadav\Downloads\GroceryHX\GroceryHX\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\harshvardhanyadav\Downloads\GroceryHX\GroceryHX\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
